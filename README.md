@@ -11,4 +11,4 @@
 (https://www.rit.edu)
 [RIT](https://www.rit.edu)
 
-![Chicken](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.treehugger.com%2Fhow-long-do-chickens-live-4859423&ved=0CBYQjRxqFwoTCPCgvu2c9pYDFQAAAAAdAAAAABA4&opi=89978449)
+![Chicken](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.treehugger.com%2Fhow-long-do-chickens-live-4859423&ved=0CBYQjRxqFwoTCIiDhpCd9pYDFQAAAAAdAAAAABBT&opi=89978449)
