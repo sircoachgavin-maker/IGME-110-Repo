@@ -7,5 +7,5 @@
 
 - Yes
 - No
-
+(https://www.rit.edu)
 [RIT](https://www.rit.edu)
